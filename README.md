@@ -12,7 +12,7 @@
 * This is a practice Automation Testing Assignment. 
 * We are using Just Dial to practice Automation Testing on Just Dial Application.
 * In this assignment you will have to create a Cucumber Framework to automate the scenarios listed below.
-* Application URL is : http://justdial.com
+* Application URL is : https://justdial.com
 * Estimated time to complete this assignment is: 4 hrs - 8 hrs (so clock your time)
 * You can use internet or any old reference to do this assignment.
 
